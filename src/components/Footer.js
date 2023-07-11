@@ -31,16 +31,16 @@ function Footer() {
                                 <AiFillGithub />
                             </a>
                         </li>
-                        {/* <li className="social-icons">
+                     <li className="social-icons">
               <a
                 href="https://twitter.com/Soumyajit4419"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiOutlineTwitter />
+                <AiOutlineMail />
               </a>
-            </li> */}
+            </li> 
                         <li className="social-icons">
                             <a
                                 href="https://www.linkedin.com/in/sarthak-sharma-5101ss"
